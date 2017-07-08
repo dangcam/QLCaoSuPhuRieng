@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <server>192.168.2.6,1433</server>
+  <batabase>CAOSUPHURIENG</batabase>
+  <user>dangcam.pr</user>
+  <password>123456</password>
+  <role></role>
+</config>
